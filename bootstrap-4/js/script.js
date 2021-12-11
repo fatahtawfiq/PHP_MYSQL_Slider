@@ -1,0 +1,1 @@
+$('#message').fadeOut(60000);
